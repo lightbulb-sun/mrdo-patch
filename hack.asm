@@ -30,6 +30,11 @@ myorg $a63f
         sbc     a, $01                  ; ... after every 5000 points
 
 
+; fix cherry scoring
+myorg $96be
+        ld      de, 45                  ; reduce 8th cherry bonus from 500 to 450
+
+
 ; fix treats
 myorg $82f5
         cp      MAX_PHASE-1             ; If phase above 21, ...

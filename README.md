@@ -2,8 +2,10 @@
 
 ## Changes
 
-Makes changes according to this
-[romhacking.net post](https://www.romhacking.net/forum/index.php?topic=36522.msg441531#msg441531)
+Makes changes according to
+[romhacking.net post #1](https://www.romhacking.net/forum/index.php?topic=36522.msg441531#msg441531)
+and
+[romhacking.net post #2](https://www.romhacking.net/forum/index.php?topic=36522.msg441803#msg441803)
 by SMB2J-2Q:
 * Make alphamonsters spawn every 5,000 points instead of 10,000
 * Use the following guide for treats:
@@ -28,6 +30,7 @@ Treat #10: 6,000 points (scenes 16-18)
 Treat #11: 7,000 points (scenes 19-21)
 Treat #12: 8,000 points (scene 22+)
 ```
+* Eighth cherry in a row now worth 500 points, not 500+50
 
 ## Download
 The latest release can be found on the
